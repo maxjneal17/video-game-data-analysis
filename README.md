@@ -5,7 +5,7 @@
 ![matplotlib](https://img.shields.io/badge/matplotlib-3.5%2B-green)
 ![seaborn](https://img.shields.io/badge/seaborn-0.12%2B-lightblue)
 
-A comprehensive exploratory data analysis of over 64,000 video game records from VGChartz. This project uncovers trends in global sales, regional preferences, platform performance, genre popularity over time, and the relationship between critic scores and commercial success.
+A comprehensive exploratory data analysis of over 64,000 video game records from Kaggle. This project uncovers trends in global sales, regional preferences, platform performance, genre popularity over time, and the relationship between critic scores and commercial success.
 
 ## 📁 Dataset
 
