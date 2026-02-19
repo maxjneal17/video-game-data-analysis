@@ -1,4 +1,4 @@
-# 🎮 Video Game Sales Analysis – A Step-by-Step Tutorial
+# 🎮 Video Game Sales Analysis
 
 Welcome to my video game sales analysis project. I'll show how I used Python to explore over 64,000 video game records from Kaggle. We'll cover everything from loading the data to generating insights and visualizations. By the end, you'll see how to perform a complete exploratory data analysis (EDA) on a real-world dataset.
 
